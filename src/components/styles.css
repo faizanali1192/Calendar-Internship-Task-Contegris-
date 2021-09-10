@@ -1,0 +1,18 @@
+.select-box-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.select-box {
+  height: 40px;
+  width: 200px;
+  border: 2px solid black;
+}
+.heading-wrapper {
+  display: flex;
+  justify-content: center;
+}
+.heading {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color:green;
+}
